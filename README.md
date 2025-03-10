@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arun5uresh
+- 👋 Hi, I’m @ArunSuresh
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently teaching ...
 - 💞️ I’m looking to collaborate on ... Data Science frameworks
